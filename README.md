@@ -13,7 +13,7 @@
   <img align="center" alt="Luccas-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Luccas-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Luccas-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/714181945751240804/891890641666203658/download20210901003336.png?width=559&height=559">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
 </div>
   
   ##
