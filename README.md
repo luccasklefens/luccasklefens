@@ -2,8 +2,9 @@
   <h1>Olá! <br> Eu sou o Luccas Klefens</h1>
 <div align="center">
   <a href="https://github.com/luccasklefens">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 </div>
+  ![Luccas Klefens GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <div style="display: inline_block"><br>
   <img align="center" alt="Luccas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luccas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
